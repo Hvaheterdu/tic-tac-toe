@@ -1,1 +1,1 @@
-# tik-tac-toe
+# Tik-Tac-Toe
